@@ -1,0 +1,54 @@
+Tema: Problemas habitacionais e Moradia Social
+
+Mesmo que esse problema exista há milenios, existem solucoes há séculos
+- Paises mais desenvolvidos estao em uma situacao mais avancada
+- Ate em paises muito ricos tem problemas de estrutura, como exemplo, os Estados Unidos 
+* Por ser um tema muito amplo, a OBECON decidiu levar. ha ha. que legal.
+
+
+ESTRUTURA
+Causa: quaisa s tres principais causas dos problemas de habitacao mo brasil e no mundo (35%)
+Cmpolicacao: Quais as tres principais consequencias socioeconomicas do problema? (20%)
+Mitigacao: Como projetos de habitacao social empregados mundo afora buscam resolver isso? (20%)
+Trade-off: Quais as opcoes, escolhas e trade-offs inerentes a projetos habitocionais? (15%)
+Viabilidade: Quais as principais dificuldades de implementacao desses projetos no contexto brasileiro? (10%)
+
+relatorio que consolida os problemas e solucoes de habitacao social. tentar incialmente levar um relatorio
+
+Criterios avaliativos:
+- Coerencia ( O quao coerente e a sua resposta?)
+- Objetividade ( O quao objetiva foi a sua resposta? [Seja breve, mas explique os principais argumentos] )
+- Exaustividade ( Suas respostas devem ser cirurgicas e responder as perguntas sem exagerar)
+
+Otima resposta entra em detalhes mas nao exageradamente
+
+Fonte minima: Arial 12
+
+Nome do arquivo: FRACTALID_Nome_Sobrenome_Sprint1
+
+Responder os grandes blocos obvios que fazem sentido no ponto de vista de negocio
+
+NAO USEM O CHAT GPT
+
+
+DICAS: 
+Formatacao nao importa muito. Conteudo eh favoravel em relacao a organizacao
+Melhor ser seletivo e inteligente de quais eventos serao discutidos
+
+
+Causas: 
+
+Causas variam, nao podem ser apontadas para um fator
+
+- Desigualdade Social
+- Ausencia de politicas publicas efetivas
+- Aumento do preco medio de casas, preco crescendo mais rapido que o salario medio dos individuos
+- Altos indices de urbanizacao e densidade populacional em cidades que nao estao preparadas para receber esse numero de habitantes 
+
+
+GERAIS:
+- Desigualdade Social e Falta de politicas publicas efetivas 
+
+Podem se ligar 3 principais fatores de causa ao aumento de falta de moradia no Brasil e no mundo:
+- Excesso populacional e altas taxas de urbanizacao, como no Exodo Rural. Exemplo, no Brasil, fim do seculo XIX com os imigrantes europeus e fim da escravidao (Motta, L. D. (2011). A questão da habitação no Brasil: políticas públicas, conflitos urbanos e o direito à cidade. Mapa dos Conflitos Ambientais de Minas Gerais.), ou nos Estados Unidos, com o *Dust Bowl Exodus* (		)
+-  Moradias muito caras em relacao a renda familiar. 	
